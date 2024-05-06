@@ -1,0 +1,11 @@
+{
+  "name": "playwrightreport-npm-package",
+  "version": "1.0.0",
+  "description": "Playwright HTML is a library for playwright to generate beautiful and detailed html reports.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fico",
+  "license": "ISC"
+}
